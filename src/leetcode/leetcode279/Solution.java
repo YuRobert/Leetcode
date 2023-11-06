@@ -22,4 +22,5 @@ class Solution {
         int i = solution.numSquares(12);
         System.out.println(i);
     }
+
 }
