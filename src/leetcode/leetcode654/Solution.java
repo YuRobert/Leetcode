@@ -1,8 +1,6 @@
-package leetcode.leecode654;
+package leetcode.leetcode654;
 
 import leetcode.TreeNode;
-
-import java.util.Arrays;
 
 class Solution {
     public TreeNode constructMaximumBinaryTree(int[] nums) {

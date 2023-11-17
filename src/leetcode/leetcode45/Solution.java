@@ -1,6 +1,4 @@
-package leetcode.leecode45;
-
-import com.sun.corba.se.impl.orbutil.CorbaResourceUtil;
+package leetcode.leetcode45;
 
 class Solution {
     //[2,3,1,1,4]

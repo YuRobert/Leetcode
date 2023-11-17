@@ -1,4 +1,4 @@
-package leetcode.leecode112;
+package leetcode.leetcode112;
 
 import leetcode.TreeNode;
 

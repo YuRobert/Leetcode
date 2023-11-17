@@ -1,6 +1,5 @@
 package leetcode.leetcode122;
 
-import jdk.jfr.internal.tool.Main;
 
 class Solution {
     public int maxProfit(int[] prices) {
